@@ -1,0 +1,14 @@
+﻿Build started 10/27/2015 9:58:57 AM.
+     1>Project "c:\Users\tz6ysq\documents\visual studio 2015\Projects\Daily 198 Easy C\Daily 198 Easy C\Daily 198 Easy C.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\Daily 198 Easy C.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Daily 198 Easy C.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "Daily 198 Easy C.cpp"
+         Daily 198 Easy C.cpp
+     1>c:\users\tz6ysq\documents\visual studio 2015\projects\daily 198 easy c\daily 198 easy c\daily 198 easy c.cpp(10): warning C4018: '>': signed/unsigned mismatch
+     1>c:\users\tz6ysq\documents\visual studio 2015\projects\daily 198 easy c\daily 198 easy c\daily 198 easy c.cpp(24): error C4700: uninitialized local variable 'sum' used
+     1>Done Building Project "c:\Users\tz6ysq\documents\visual studio 2015\Projects\Daily 198 Easy C\Daily 198 Easy C\Daily 198 Easy C.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.52
